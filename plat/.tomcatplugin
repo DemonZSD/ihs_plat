@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/webapp</rootDir>
+    <exportSource>true</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>D:\workspases\PlatformAppointment.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath></webPath>
+</tomcatProjectProperties>
